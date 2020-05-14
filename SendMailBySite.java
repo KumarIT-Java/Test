@@ -1,6 +1,6 @@
 //Example of sending email in Java through SMTP server provided by the host provider***********
 
-
+//Staging  Area
 import java.util.Properties;
 
 import javax.mail.Message;
