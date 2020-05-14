@@ -1,4 +1,4 @@
-//Example of sending email in Java through SMTP server provided by the host provider
+//Example of sending email in Java through SMTP server provided by the host provider***********
 
 
 import java.util.Properties;
